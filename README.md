@@ -13,9 +13,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Hagel&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Hagel&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
+### 📊 Gráfico de Atividade
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Hagel&theme=tokyo-night" alt="Gráfico de Atividades" width="100%" />
+</p>
+
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-hagel-1337b535a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurhagelporfiriomendes@gmail.com)
