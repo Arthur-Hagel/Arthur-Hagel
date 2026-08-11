@@ -12,3 +12,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 Minhas Estatísticas
+<!-- Estes cards são gerados automaticamente baseados na sua atividade no GitHub -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Hagel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Hagel&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
